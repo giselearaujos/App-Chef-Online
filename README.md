@@ -28,11 +28,11 @@
 <p> ☑️ Aprimorar tela Príncial</p>
 
 <h2 id="tecnologias">🎯 Tecnologias Usadas:</h2>
-<a href="https://expo.io/">⚒️ Expo</a>
-<a href="https://nodejs.org/en/">⚒️ Node.js</a>
-<a href="https://reactnative.dev/">⚒️ React Native</a>
-<a href="https://reactnavigation.org/">⚒️ React Navigation</a>
-<a href="https://www.npmjs.com/package/react-native-axios">⚒️ Axios</a>
+<p><a href="https://expo.io/">⚒️ Expo</a></p>
+<p><a href="https://nodejs.org/en/">⚒️ Node.js</a></p>
+<p><a href="https://reactnative.dev/">⚒️ React Native</a></p>
+<p><a href="https://reactnavigation.org/">⚒️ React Navigation</a></p>
+<p><a href="https://www.npmjs.com/package/react-native-axios">⚒️ Axios</a></p>
 
 <h2 id="rodando">🎯 Rodando a Aplicação:</h2>
 <p>Clone este repositório</p>
