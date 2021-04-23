@@ -19,18 +19,8 @@ const css = StyleSheet.create({
       padding:10,
       marginHorizontal: 15,
       borderRadius: 5
-    },
-    button_home: {
-      backgroundColor: '#AA2B1D',
-      fontSize: 20,
-      padding:15,
-      margin:10,
-      borderRadius: 5
-    },
-    button_text: {fontWeight: 'bold',
-    textAlign: 'center',
-    fontSize: 18,
-    color: '#fff',}
+    }   
+    
   });
 
 export {css};  
