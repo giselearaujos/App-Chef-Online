@@ -8,23 +8,16 @@ const css = StyleSheet.create({
       justifyContent: 'center',
     },
     home: {      
-      width:350, 
-      backgroundColor: '#CC561E',
-      padding:10,
+      width:400,       
+      padding:15,
+      marginBottom: 460,
       borderRadius: 5,    
-    },
-    text_home: {
-      fontWeight: 'bold',
-      textAlign: 'center',
-      fontSize: 18,
-      color: '#fff',
-      marginBottom: 15
-    },
+    },    
     input_home: {
       backgroundColor: '#fff',
       fontSize: 20,
       padding:10,
-      marginHorizontal: 10,
+      marginHorizontal: 15,
       borderRadius: 5
     },
     button_home: {

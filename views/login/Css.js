@@ -8,8 +8,8 @@ const css = StyleSheet.create({
     },
     logo_input: {      
       alignItems: 'center',
-      marginBottom: 20,
-      height: 65,           
+      marginBottom: 100,
+      width: 300,         
     },    
     form_login: {
       width: 300,          
